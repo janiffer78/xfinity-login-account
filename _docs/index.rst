@@ -3,7 +3,7 @@ How to Log In Your Xfinity Account Easily? 🔐📶
 
 Accessing your **Xfinity login account** smoothly is essential for managing your services, viewing bills, troubleshooting, and enjoying Xfinity’s vast array of entertainment options. Whether you're new to Xfinity or have used it before, this comprehensive guide will walk you through how to log in your Xfinity account easily, solve common login issues, and secure your account for peace of mind. 🚀
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
